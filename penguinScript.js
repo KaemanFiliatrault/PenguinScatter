@@ -196,7 +196,7 @@ var getImage = function(student)
                  
     console.log(student);
     pictureLink = student.picture;
-    picture = "/imgs/" + pictureLink;
+    picture = "/PenguinScatter/imgs/" + pictureLink;
     console.log(picture)
     return picture;
 }

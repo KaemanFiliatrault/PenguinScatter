@@ -28,3 +28,7 @@
 .failing{
     fill:Red;
 }
+#spread{
+    float:left;
+    width:550px;
+}
